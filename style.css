@@ -1,0 +1,44 @@
+#tab{
+   text-align: center;
+   align-items: center;
+  
+}
+#th{
+    align-content:center;
+}
+#addbtn{
+    
+    width:85px;
+    font-size: larger;
+}
+#getdetails{
+    
+    width:85px;
+    font-size: larger;
+}
+#update{
+    
+    width:90px;
+    font-size: larger;
+}
+#delete{
+    width:80px;
+    
+    font-size: larger;
+}
+#name::placeholder{
+    text-align: center;
+}
+#rollno::placeholder{
+    text-align:center;
+}
+#email::placeholder{
+    text-align:center;
+}
+#branch::placeholder{
+    text-align:center;
+}
+#th1{
+   font-size:xx-large;
+}
+
